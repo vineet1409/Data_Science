@@ -19,9 +19,6 @@ target variable.
 * Libraries: pandas, statsmodel, seaborn, matplotlib, sklearn, scipy
 
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
 ### Approach
 
 This project starts with a real-life example for regression analysis, with an introduction to
