@@ -1,2 +1,2 @@
 # Data_Science
-Machine Learning, NLP, Deep Learning, Time Series Projects
+Machine Learning, NLP, CV, Deep Learning, Time Series Projects
